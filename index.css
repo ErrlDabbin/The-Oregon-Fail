@@ -1,0 +1,29 @@
+body {
+  font-family: monospace;
+  background-color: #111;
+  color: #0f0;
+  padding: 20px;
+}
+
+.psychedelic {
+  font-size: 2em;
+  color: magenta;
+  text-shadow: 0 0 5px lime, 0 0 10px cyan;
+}
+
+.pixel-art {
+  image-rendering: pixelated;
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+}
+
+button {
+  background-color: #222;
+  color: #0f0;
+  border: 1px solid #0f0;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
